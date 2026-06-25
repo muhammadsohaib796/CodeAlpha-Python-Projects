@@ -1,5 +1,5 @@
-CodeAlpha Python Projects
-Two Python projects built during my internship at CodeAlpha.
+Python Projects
+Two Python projects built.
 
 📁 Projects
 🎮 1. Hangman Game
@@ -9,8 +9,6 @@ A classic word guessing game. Guess the secret word letter by letter before your
 A basic chatbot that replies to user messages based on predefined responses.
 
 🛠️ Tech Used
-
-
 Python 3
 
 👨‍💻 Author
